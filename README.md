@@ -1,18 +1,20 @@
-<!--
-### Hi there 👋
--->
+Hello! My name is Elshama Mokoena, 
 
-<!--
-**elshamamokoena/elshamamokoena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from the University of Johannesburg pursuing Bsc Computer Science & Informatics.
+I have an interest in frontend technologies and web technologies in general.
+I am currently a Tiso Foundation Brand Ambassador.
 
-Here are some ideas to get you started:
+### The Gaolos App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am working on a web application called the Gaolos App. It is a food delivery service app inspired by similar brands such
+as UberEats and MrD food.
+I add new features to the application on continuous basis.
+
+### Tools I use regularly:
+  - C#
+  - JavaScript (mostly for blazor interoperability)
+  - MVC, Blazor Web Assembly
+  - Microsoft Azure
+  - GitHub
+  - Asp.Net Core
+
