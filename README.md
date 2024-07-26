@@ -12,7 +12,7 @@ I add new features to the application on continuous basis.
 
 ### Tools I use regularly:
   - C#
-  - JavaScript (mostly for blazor interoperability)
+  - JavaScript 
   - MVC, Blazor Web Assembly
   - Microsoft Azure
   - GitHub
