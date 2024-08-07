@@ -1,3 +1,4 @@
+<!--
 Hello! My name is Elshama Mokoena, 
 
 I am from the University of Johannesburg pursuing Bsc Computer Science & Informatics.
@@ -18,3 +19,4 @@ I add new features to the application on continuous basis.
   - GitHub
   - Asp.Net Core
 
+-->
