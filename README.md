@@ -16,8 +16,8 @@ I add new features to the application on continuous basis.
 
 ### Tools I use regularly:
   - C#
-  - JavaScript 
-  - MVC, Blazor Web Assembly
+  - Vanilla Javascript
+  - MVC, Blazor
   - Microsoft Azure
   - GitHub
   - Asp.Net Core
