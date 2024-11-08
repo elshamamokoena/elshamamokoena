@@ -25,6 +25,7 @@ I add new features to the application on continuous basis.
 ### Upskilling journey:
   - Angular
   - TypeScript
+  - OAuth2 & OpenID Connect (Competent integration with .Net and JS based clients)
   - Technical writing (Competent)
 
 I can work with other technologies, such as PHP, Java, Node.Js and Python at a competent level, and highly malleable with new technologies.
