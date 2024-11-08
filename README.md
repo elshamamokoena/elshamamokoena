@@ -22,10 +22,9 @@ I add new features to the application on continuous basis.
   - Microsoft Azure (Proficient)
   - GitHub
   - Asp.Net Core (Highly proficient)
-### Technologies I am skilling up on:
+### Upskilling journey:
   - Angular
   - TypeScript
+  - Technical writing (Competent)
 
-    
-
-I can work with other technologies, such as PHP, Java, Node.Js and Python and highly malleable with new technologies.
+I can work with other technologies, such as PHP, Java, Node.Js and Python at a competent level, and highly malleable with new technologies.
