@@ -28,4 +28,4 @@ I add new features to the application on continuous basis.
 
     
 
-I can work with other technologies, such as PHP, Node.Js and Python and highly malleable with new technologies.
+I can work with other technologies, such as PHP, Java, Node.Js and Python and highly malleable with new technologies.
