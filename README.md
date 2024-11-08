@@ -2,7 +2,8 @@
 Hello! My name is Elshama Mokoena, 
 
 I am from the University of Johannesburg pursuing Bsc Computer Science & Informatics.
-I have an interest in frontend technologies and web technologies in general.
+I have an interest in frontend technologies and web technologies in general. 
+
 <!--
 
 I am currently a Tiso Foundation Brand Ambassador.
@@ -15,9 +16,16 @@ I add new features to the application on continuous basis.
 
 
 ### Tools I use regularly:
-  - C#
-  - Vanilla Javascript
-  - MVC, Blazor
-  - Microsoft Azure
+  - C# (Highly proficient)
+  - Javascript (Proficient)
+  - MVC, Blazor (Highly proficient)
+  - Microsoft Azure (Proficient)
   - GitHub
-  - Asp.Net Core
+  - Asp.Net Core (Highly proficient)
+### Technologies I am skilling up on:
+  - Angular
+  - TypeScript
+
+    
+
+I can work with other technologies, such as PHP, Node.Js and Python and highly malleable with new technologies.
