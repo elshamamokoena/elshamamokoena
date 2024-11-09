@@ -15,7 +15,7 @@ I am currently a Tiso Foundation Brand Ambassador.
    conference rooms, track bookings, and handle employee registrations. Employees will 
    be able to search for and reserve conference rooms, while the office staff can oversee 
    bookings, manage room availability, and generate detailed reports.
- ### <u>Key Project Features:</u>
+   <u>Key Project Features:</u>
 
 I am working on a web application called the Gaolos App. It is a food delivery service app inspired by similar brands such
 as UberEats and MrD food.
