@@ -4,10 +4,12 @@ Hello! My name is Elshama Mokoena,
 I am from the University of Johannesburg pursuing Bsc Computer Science & Informatics.
 I have an interest in frontend technologies and web technologies in general. 
 
-<!--
-
 I am currently a Tiso Foundation Brand Ambassador.
-### The Gaolos App
+
+### Flagship Projects
+
+1. Final year Project: Conference Room Booking System
+   Project Link: <https://github.com/elshamamokoena/BookingSystem>
 
 I am working on a web application called the Gaolos App. It is a food delivery service app inspired by similar brands such
 as UberEats and MrD food.
@@ -22,6 +24,7 @@ I add new features to the application on continuous basis.
   - Microsoft Azure (Proficient)
   - GitHub
   - Asp.Net Core (Highly proficient)
+  - Bootstrap/CSS (Working knowledge)
 ### Upskilling journey:
   - Angular
   - TypeScript
