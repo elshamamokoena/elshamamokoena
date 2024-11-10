@@ -14,8 +14,8 @@ I am currently a Tiso Foundation Brand Ambassador.
    single office building. This system will enable the office manager to manage different 
    conference rooms, track bookings, and handle employee registrations. Employees will 
    be able to search for and reserve conference rooms, while the office staff can oversee 
-   bookings, manage room availability, and generate detailed reports.
-   <u>Key Project Features:</u>
+   bookings, manage room availability, and generate detailed reports.\
+   1.1 <u>Key Project Features:</u>
    - OAuth2 & OpenIC
       
 
