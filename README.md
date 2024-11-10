@@ -16,7 +16,8 @@ I am currently a Tiso Foundation Brand Ambassador.
    be able to search for and reserve conference rooms, while the office staff can oversee 
    bookings, manage room availability, and generate detailed reports.\
    1.1 <u>Key Project Features:</u>
-   - OAuth2 & OpenIC
+   - OAuth2 & OpenIDConnect
+   - 
       
 
 
