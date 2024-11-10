@@ -8,8 +8,8 @@ I am currently a Tiso Foundation Brand Ambassador.
 
 ### Flagship Projects
 
-1. Final year Project: Conference Room Booking System
-   Project Link: <https://github.com/elshamamokoena/BookingSystem>
+1. Final year Project: Conference Room Booking System\
+   Project Link: <https://github.com/elshamamokoena/BookingSystem>\
    Project Description: A comprehensive system for managing conference room bookings within a 
    single office building. This system will enable the office manager to manage different 
    conference rooms, track bookings, and handle employee registrations. Employees will 
