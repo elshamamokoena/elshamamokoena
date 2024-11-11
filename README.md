@@ -30,12 +30,12 @@ bookings, manage room availability, and generate detailed reports.\
   - C# (Highly proficient)
   - Javascript (Proficient)
   - MVC, Blazor (Highly proficient)
-  - Microsoft Azure (Working knowledge)
+  - Microsoft Azure (Competent)
   - GitHub 
   - Asp.Net Core (Highly proficient)
   - Bootstrap/CSS (Working knowledge)
 ### Upskilling journey:
-  - OAuth2 & OpenID Connect 
+  - OAuth2 & OpenID Connect (working knowledge)
   - Technical writing (Competent)
 
 I can work with other technologies, such as PHP, Java, Node.Js and Python at a competent level, and highly malleable with new technologies.
