@@ -20,9 +20,10 @@ I am currently a Tiso Foundation Brand Ambassador.
    - OAuth2 & OpenIDConnect
    - Microsoft EntraID/Azure Active directory integration
    - Conference room analytics & reporting
-   - Export conference room list data to CSV
+   - Export Confereroom Data to CSV
    - Mailgun API Integration (Email Service)
    - .NetCore API documentation using Swagger & Swashbuckle
+   - Role-base Access Control & User Profile Management
    - Strict adherence to Clean Architecture Principles in Asp.Net Core applications;
      <https://app.pluralsight.com/library/courses/asp-dot-net-core-6-clean-architecture/table-of-contents>
      
