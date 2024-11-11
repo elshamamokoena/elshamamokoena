@@ -15,12 +15,16 @@ I am currently a Tiso Foundation Brand Ambassador.
    conference rooms, track bookings, and handle employee registrations. Employees will 
    be able to search for and reserve conference rooms, while the office staff can oversee 
    bookings, manage room availability, and generate detailed reports.\
+   \
    1.1 <u>Key Project Features:</u>
    - OAuth2 & OpenIDConnect
-   - 
-      
-
-
+   - Microsoft EntraID/Azure Active directory integration
+   - Conference room analytics & reporting
+   - Export conference room list data to CSV
+   - Mailgun API Integration (Email Service)
+   - .NetCore API documentation using Swagger & Swashbuckle
+   - Strict adherence to Clean Architecture Principles in Asp.Net Core applications.
+     
 ### Tools I use regularly:
   - C# (Highly proficient)
   - Javascript (Proficient)
