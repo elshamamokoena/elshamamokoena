@@ -35,8 +35,6 @@ bookings, manage room availability, and generate detailed reports.\
   - Asp.Net Core (Highly proficient)
   - Bootstrap/CSS (Working knowledge)
 ### Upskilling journey:
-  - Angular
-  - TypeScript
   - OAuth2 & OpenID Connect 
   - Technical writing (Competent)
 
