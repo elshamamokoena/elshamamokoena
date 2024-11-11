@@ -30,8 +30,8 @@ bookings, manage room availability, and generate detailed reports.\
   - C# (Highly proficient)
   - Javascript (Proficient)
   - MVC, Blazor (Highly proficient)
-  - Microsoft Azure (Proficient)
-  - GitHub
+  - Microsoft Azure (Working knowledge)
+  - GitHub 
   - Asp.Net Core (Highly proficient)
   - Bootstrap/CSS (Working knowledge)
 ### Upskilling journey:
