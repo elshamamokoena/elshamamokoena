@@ -23,7 +23,7 @@ bookings, manage room availability, and generate detailed reports.\
 - Mailgun API Integration (Email Service)
 - .NetCore API documentation using Swagger & Swashbuckle
 - Role-base Access Control & User Profile Management
-- Strict adherence to Clean Architecture Principles in Asp.Net Core applications;
+- Strict adherence to Clean Architecture Principles in Asp.Net Core applications;\
   <https://app.pluralsight.com/library/courses/asp-dot-net-core-6-clean-architecture/table-of-contents>
      
 ### Tools I use regularly:
