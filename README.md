@@ -2,7 +2,7 @@
 Hello! My name is Elshama Mokoena, 
 
 I am from the University of Johannesburg pursuing Bsc Computer Science & Informatics.
-I have an interest in frontend technologies and web technologies in general. 
+I have a huge interest in web technologies and cloud application development.
 
 I am currently a Tiso Foundation Brand Ambassador.
 
