@@ -1,7 +1,6 @@
 
 Hello! My name is Elshama Mokoena, 
 
-I am from the University of Johannesburg pursuing Bsc Computer Science & Informatics.
 I have a huge interest in web technologies and cloud application development.
 
 ### Flagship Project
