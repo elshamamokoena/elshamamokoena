@@ -3,6 +3,8 @@ Hello! My name is Elshama Mokoena,
 
 I have a huge interest in web technologies and cloud application development.
 
+I am currently a Tiso Foundation Brand Ambassador.
+
 ### Flagship Project
 Final year Project: Conference Room Booking System\
 Project Link: <https://github.com/elshamamokoena/BookingSystem>\
