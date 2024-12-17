@@ -1,7 +1,7 @@
 
 Hello! My name is Elshama Mokoena, 
 
-I have a huge interest in web technologies and cloud application development.
+I build web applications.
 
 
 ### Flagship Project
