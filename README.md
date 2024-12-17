@@ -25,15 +25,14 @@ bookings, manage room availability, and generate detailed reports.\
   <https://app.pluralsight.com/library/courses/asp-dot-net-core-6-clean-architecture/table-of-contents>
      
 ### Tools I use regularly:
-  - C# (Highly proficient)
-  - Javascript (Proficient)
-  - MVC, Blazor (Highly proficient)
-  - Microsoft Azure (Competent)
+  - C# 
+  - Javascript 
+  - MVC, Blazor 
+  - Microsoft Azure 
   - GitHub 
-  - Asp.Net Core (Highly proficient)
+  - Asp.Net Core 
   - Bootstrap/CSS (Working knowledge)
-### Upskilling journey:
   - OAuth2 & OpenID Connect (working knowledge)
-  - Technical writing (Competent)
+  - Technical writing
 
 I can work with other technologies, such as PHP, Java, Node.Js and Python at a competent level, and highly malleable with new technologies.
