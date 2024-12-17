@@ -35,4 +35,4 @@ bookings, manage room availability, and generate detailed reports.\
   - OAuth2 & OpenID Connect (working knowledge)
   - Technical writing
 
-I can work with other technologies, such as PHP, Java, Node.Js and Python at a competent level, and highly malleable with new technologies.
+I can work with other technologies, such as PHP, Java at a competent level, and highly malleable with new technologies.
