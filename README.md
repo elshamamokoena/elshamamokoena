@@ -5,7 +5,7 @@ I build web applications.
 
 
 ### Flagship Project
-Final year Project: Conference Room Booking System\
+Conference Room Booking System\
 Project Link: <https://github.com/elshamamokoena/BookingSystem>\
 Project Description: A comprehensive system for managing conference room bookings within a 
 single office building. This system will enable the office manager to manage different 
@@ -31,8 +31,8 @@ bookings, manage room availability, and generate detailed reports.\
   - Microsoft Azure 
   - GitHub 
   - Asp.Net Core 
-  - Bootstrap/CSS (Working knowledge)
+  - Bootstrap/CSS 
   - OAuth2 & OpenID Connect (working knowledge)
   - Technical writing
 
-I can work with other technologies, such as PHP, Java at a competent level, and highly malleable with new technologies.
+I have worked with other technologies, such as PHP, Python and Java at a competent level, and highly malleable with new technologies.
