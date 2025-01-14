@@ -31,8 +31,10 @@ bookings, manage room availability, and generate detailed reports.\
   - Microsoft Azure 
   - GitHub 
   - Asp.Net Core 
-  - Bootstrap/CSS 
-  - OAuth2 & OpenID Connect (working knowledge)
+  - Bootstrap/CSS
+  - Bootstrap Studio
+  - Visual Studio
+  - OAuth2 & OpenID Connect 
   - Technical writing
 
 I have worked with other technologies, such as PHP, Python and Java at a competent level, and highly malleable with new technologies.
