@@ -4,7 +4,7 @@ Hello! My name is Elshama Mokoena,
 I build web applications.
 
 
-### Flagship Project
+### Latest Project
 Conference Room Booking System\
 Project Link: <https://github.com/elshamamokoena/BookingSystem>\
 Project Description: A comprehensive system for managing conference room bookings within a 
