@@ -1,40 +1,86 @@
+Hello! My name is Elshama Mokoena.
 
-Hello! My name is Elshama Mokoena, 
+I design and engineer digital infrastructure platforms, transactional systems, and institutional-grade web applications.
 
-I build web applications.
+---
 
+## Selected Projects
 
-### Latest Project
-Conference Room Booking System\
-Project Link: <https://github.com/elshamamokoena/BookingSystem>\
-Project Description: A comprehensive system for managing conference room bookings within a 
-single office building. This system will enable the office manager to manage different 
-conference rooms, track bookings, and handle employee registrations. Employees will 
-be able to search for and reserve conference rooms, while the office staff can oversee 
-bookings, manage room availability, and generate detailed reports.\
-\
-<u>Key Project Features:</u>
-- OAuth2 & OpenIDConnect
-- Microsoft EntraID/Azure Active directory integration
-- Conference room analytics & reporting
-- Export Confereroom Data to CSV
-- Mailgun API Integration (Email Service)
-- .NetCore API documentation using Swagger & Swashbuckle
-- Role-base Access Control & User Profile Management
-- Strict adherence to Clean Architecture Principles in Asp.Net Core applications;\
-  <https://app.pluralsight.com/library/courses/asp-dot-net-core-6-clean-architecture/table-of-contents>
-     
-### Tools I use regularly:
-  - C# 
-  - Javascript 
-  - MVC, Blazor 
-  - Microsoft Azure 
-  - GitHub 
-  - Asp.Net Core 
-  - Bootstrap/CSS
-  - Bootstrap Studio
-  - Visual Studio
-  - OAuth2 & OpenID Connect 
-  - Technical writing
+### 1. Municipal Holistic ERP System (Gaborone City Council)
 
-I have worked with other technologies, such as PHP, Python and Java at a competent level, and highly malleable with new technologies.
+Enterprise Resource Planning (ERP) platform designed to modernize municipal operations across financial management, procurement, project management, and health services.
+
+Key Focus Areas:
+- Multi-module ERP architecture (Financials, Procurement, Project Management, Health)
+- API integration with national utilities (Water Utilities Corporation & Botswana Power Corporation)
+- Role-based access control & compliance workflows
+- Scalable cloud architecture (AWS/Azure hybrid deployment)
+- Multi-council deployment design (20+ councils)
+
+Scope reference: Holistic ERP System for Gaborone City Council :contentReference[oaicite:4]{index=4}
+
+---
+
+### 2. Utility & Smart Infrastructure Platforms (DIGIWORX)
+
+Digital platforms supporting:
+- Voucher-less electricity recharge systems
+- Smart water meter integrations
+- Livestock tracking & geofencing systems
+- SMS-based telecom promotions (Orange Botswana)
+
+Core Capabilities:
+- Real-time transaction processing
+- Utility API integrations
+- Device-to-server communication architecture
+- Secure payment flows
+- Scalable cloud infrastructure
+
+Profile reference: DIGIWORX Company Platforms :contentReference[oaicite:5]{index=5}
+
+---
+
+### 3. Golf Trader – Centralised Marketplace Infrastructure
+
+A transaction-first marketplace platform designed to centralize payments, verification, logistics coordination, and seller payouts.
+
+Architecture Focus:
+- Central payment gateway integration (PayFast, SnapScan, Instant EFT)
+- Escrow-style seller payout workflow
+- Logistics partner integrations
+- Scalable cloud hosting (AWS/Azure)
+- Secure user verification & RBAC
+
+Platform overview: Golf Trader Pitch Deck :contentReference[oaicite:6]{index=6}
+
+---
+
+### 4. iThemba Health Savings Plan (M-PESA Integrated)
+
+A healthcare savings and claim authorization platform integrated with Vodacom M-PESA.
+
+System Capabilities:
+- OTP-based claim authorization flow
+- Real-time balance reflection via M-PESA
+- AML compliance workflows
+- Health provider payment verification
+- Mobile-first financial system design
+
+Platform reference: iThemba Health Savings Plan :contentReference[oaicite:7]{index=7}
+
+---
+
+## Core Focus Areas
+
+- Institutional Systems Architecture
+- Payment & Transaction Infrastructure
+- ERP & Workflow Systems
+- Utility & Smart Meter Integrations
+- M-PESA & Mobile Money Systems
+- Role-Based Access Control (RBAC)
+- Cloud Architecture (Azure / AWS)
+- API & Distributed Systems Design
+
+---
+
+I focus on building secure, scalable platforms designed for institutional use, public-sector environments, and transaction-heavy ecosystems.
