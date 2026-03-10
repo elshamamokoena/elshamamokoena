@@ -17,7 +17,7 @@ Key Focus Areas:
 - Scalable cloud architecture (AWS/Azure hybrid deployment)
 - Multi-council deployment design (20+ councils)
 
-Scope reference: Holistic ERP System for Gaborone City Council :contentReference[oaicite:4]{index=4}
+Scope reference: Holistic ERP System for Gaborone City Council
 
 ---
 
@@ -36,7 +36,7 @@ Core Capabilities:
 - Secure payment flows
 - Scalable cloud infrastructure
 
-Profile reference: DIGIWORX Company Platforms :contentReference[oaicite:5]{index=5}
+Profile reference: DIGIWORX Company Platforms 
 
 ---
 
@@ -51,7 +51,7 @@ Architecture Focus:
 - Scalable cloud hosting (AWS/Azure)
 - Secure user verification & RBAC
 
-Platform overview: Golf Trader Pitch Deck :contentReference[oaicite:6]{index=6}
+Platform overview: Golf Trader Pitch Deck
 
 ---
 
@@ -66,7 +66,7 @@ System Capabilities:
 - Health provider payment verification
 - Mobile-first financial system design
 
-Platform reference: iThemba Health Savings Plan :contentReference[oaicite:7]{index=7}
+Platform reference: iThemba Health Savings Plan 
 
 ---
 
