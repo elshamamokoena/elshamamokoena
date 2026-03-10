@@ -1,6 +1,6 @@
 Hello! My name is Elshama Mokoena.
 
-I design and engineer digital infrastructure platforms, transactional systems, and institutional-grade web applications.
+I design and build digital infrastructure platforms, transactional systems, and institutional-grade web applications.
 
 ---
 
