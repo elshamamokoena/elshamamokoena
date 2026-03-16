@@ -1,86 +1,60 @@
 Hello! My name is Elshama Mokoena.
 
-I design and build digital infrastructure platforms, transactional systems, and institutional-grade web applications.
+I build backend systems and digital platforms focused on transactional workflows, marketplaces, and API-driven applications.
+
+My work mainly involves designing and implementing production-ready .NET applications that support multi-role systems, secure transactions, and real-world business workflows.
 
 ---
 
 ## Selected Projects
 
-### 1. Municipal Holistic ERP System (Gaborone City Council)
+### GolfClown Marketplace
 
-Enterprise Resource Planning (ERP) platform designed to modernize municipal operations across financial management, procurement, project management, and health services.
+A marketplace platform designed to connect buyers and sellers through a structured listing and transaction workflow.
 
-Key Focus Areas:
-- Multi-module ERP architecture (Financials, Procurement, Project Management, Health)
-- API integration with national utilities (Water Utilities Corporation & Botswana Power Corporation)
-- Role-based access control & compliance workflows
-- Scalable cloud architecture (AWS/Azure hybrid deployment)
-- Multi-council deployment design (20+ councils)
+Key Features
+- Multi-role system (buyers, sellers, admin)
+- Listing creation with media uploads and category tagging
+- Marketplace search and filtering
+- Order lifecycle management
+- Transaction notifications and messaging
 
-Scope reference: Holistic ERP System for Gaborone City Council
-
----
-
-### 2. Utility & Smart Infrastructure Platforms (DIGIWORX)
-
-Digital platforms supporting:
-- Voucher-less electricity recharge systems
-- Smart water meter integrations
-- Livestock tracking & geofencing systems
-- SMS-based telecom promotions (Orange Botswana)
-
-Core Capabilities:
-- Real-time transaction processing
-- Utility API integrations
-- Device-to-server communication architecture
-- Secure payment flows
-- Scalable cloud infrastructure
-
-Profile reference: DIGIWORX Company Platforms 
+Tech
+- ASP.NET Core
+- REST APIs
+- Role-Based Access Control
+- Cloud deployment (Azure/AWS)
 
 ---
 
-### 3. Golf Trader – Centralised Marketplace Infrastructure
+### iThembaHealth Savings Platform
 
-A transaction-first marketplace platform designed to centralize payments, verification, logistics coordination, and seller payouts.
+A digital healthcare savings and claims platform integrated with mobile payment infrastructure.
 
-Architecture Focus:
-- Central payment gateway integration (PayFast, SnapScan, Instant EFT)
-- Escrow-style seller payout workflow
-- Logistics partner integrations
-- Scalable cloud hosting (AWS/Azure)
-- Secure user verification & RBAC
+Key Features
+- Health savings account management
+- Provider-submitted claim workflow
+- OTP-based claim authorization
+- Real-time balance updates
+- Multi-role system (patients, providers, admin)
 
-Platform overview: Golf Trader Pitch Deck
-
----
-
-### 4. iThemba Health Savings Plan (M-PESA Integrated)
-
-A healthcare savings and claim authorization platform integrated with Vodacom M-PESA.
-
-System Capabilities:
-- OTP-based claim authorization flow
-- Real-time balance reflection via M-PESA
-- AML compliance workflows
-- Health provider payment verification
-- Mobile-first financial system design
-
-Platform reference: iThemba Health Savings Plan 
+Tech
+- .NET backend services
+- Secure authentication and RBAC
+- API integrations with payment infrastructure
+- Mobile-first system architecture
 
 ---
 
-## Core Focus Areas
+## Focus Areas
 
-- Institutional Systems Architecture
-- Payment & Transaction Infrastructure
-- ERP & Workflow Systems
-- Utility & Smart Meter Integrations
-- M-PESA & Mobile Money Systems
+- Backend Development (.NET / ASP.NET Core)
+- API Design & Distributed Systems
+- Marketplace & Transaction Platforms
 - Role-Based Access Control (RBAC)
-- Cloud Architecture (Azure / AWS)
-- API & Distributed Systems Design
+- Payment & Financial Workflows
+- Cloud Infrastructure (Azure / AWS)
 
 ---
 
-I focus on building secure, scalable platforms designed for institutional use, public-sector environments, and transaction-heavy ecosystems.
+I enjoy building secure, scalable systems designed for real-world operational workflows and transaction-heavy platforms.
