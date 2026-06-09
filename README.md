@@ -14,4 +14,4 @@ Cloud-Native Applications
 Security & RBAC
 Workflow Automation
 
-I enjoy solving complex technical problems, improving system design, and turning business requirements into reliable, production-ready software.
+I enjoy solving complex technical problems, improving system design, and turning business requirements into reliable, production-ready software. ✌🏾
