@@ -6,12 +6,11 @@ My work focuses on software architecture, API design, cloud solutions, and creat
 
 I'm particularly interested in:
 
-ASP.NET Core & .NET
-Software Architecture
-API Design & Integration
-Azure & AWS
-Cloud-Native Applications
-Security & RBAC
+ASP.NET Core & .NET,
+Software Architecture,
+API Design & Integration,
+Cloud-Native Applications,
+Security & RBAC,
 Workflow Automation
 
 I enjoy solving complex technical problems, improving system design, and turning business requirements into reliable, production-ready software. ✌🏾
